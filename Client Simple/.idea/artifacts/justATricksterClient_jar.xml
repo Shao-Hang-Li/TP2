@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="justATricksterClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/justATricksterClient_jar</output-path>
+    <root id="archive" name="justATricksterClient.jar">
+      <element id="module-output" name="justATricksterClient" />
+    </root>
+  </artifact>
+</component>
